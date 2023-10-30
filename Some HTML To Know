@@ -1,0 +1,39 @@
+一些HTML标签：
+<html></html>  定义html文档
+<head></head>  定义头部文档
+<body></body>  定义文档主体
+<main></main>  定义文档body的主题部分
+<article></article>  定义文档的独立结构，例如文章、博客等
+<a href=""></a>  定义超链接
+<audio src=""></audio>  定义音频
+<button></button>  定义按钮
+<div></div>  定义块区域
+<h1></h1> <h2></h2> <h3></h3>  定义标题
+<p></p>  定义段落
+<img src="" alt="">  定义图片
+<ol></ol>  定义有序列表
+<ul></ul>  定义无序列表
+<li></li>  定义单个列表
+<span></span> 定义文档内的行内元素
+<hr size=""></hr>  定义水平线的高度，以像素计
+
+一些CSS属性：
+width  宽度
+height  高度
+src  图片音频等的链接属性
+alt  编辑当图片无法显示时的替代文本
+font-weight  控制字体的粗细
+text-align  控制元素的对齐方式
+letter-spacing  控制文本字符的间距
+color  控制元素的颜色
+class  给元素增添类名，多个元素可用同一个类名，在style中用.class来表示
+id  独一无二的标识，每个id只能定义一个元素，在style中用#表示
+padding 元素与文本的内边距
+margin  元素的外边距
+line-height  两行文字之间的距离，也称行高
+position  元素的位置
+clear  清除这个元素之前的浮动
+font-weight  字体粗细
+font-family  字体种类
+overflow  可以让元素在给定的宽度和高度中显示或者隐藏
+display  用于定义一个元素如何显示（或布局）在页面中
